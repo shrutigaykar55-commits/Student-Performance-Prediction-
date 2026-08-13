@@ -105,7 +105,7 @@ Student_Performance_Prediction/
 └── requirements.txt
 How to Run the Project
 1. Clone the repository
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone [https://github.com/shrutigaykar55-commits/Student-Performance-Prediction]
 2. Open the project folder
 cd Student_Performance_Prediction
 3. Install the required libraries
